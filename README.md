@@ -18,3 +18,5 @@ Today I work as an system architect, engineering manager, and software contribut
 My favourite programming languages are Python, C, and JavaScript, but I enjoy learning new ones (lately - Go).
 
 I'm a big fan of Linux and its GNU ecosystem. I run Linux everywhere I can and [promote its use](https://linuxdaymilano.org/schedule/?year=2025).
+
+I am very interested in zero-trust, distributed systems on the Internet. I often hold workshops on Bitcoin and blockchain related topics (just the technology, not the financial side of it).
