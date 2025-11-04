@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rigel and I've been programming computers since I was a child. My first computer was a Commodore Vic 20 back in the Eighties, on which I learned to write simple arcade (PETSCII based!) and text adventure games.
+I'm Rigel and I've been programming computers since I was a child. My first computer was a Commodore Vic 20 back in the eighties, on which I learned to write simple arcade (PETSCII based!) and text adventure games.
 
 Today I work as an system architect, engineering manager, and software contributor. I also contribute to Free and Open Source projects, such as Django (
 [#25146](https://github.com/django/django/commit/3bdaaf6777804d33ee46cdb5a889b8cc544a91f1), 
