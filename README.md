@@ -20,3 +20,5 @@ My favourite programming languages are Python, C, and JavaScript, but I enjoy le
 I'm a big fan of Linux and its GNU ecosystem. I run Linux everywhere I can and [promote its use](https://linuxdaymilano.org/schedule/?year=2025).
 
 I am very interested in zero-trust, distributed systems on the Internet. I often hold workshops on Bitcoin and blockchain related topics (just the technology, not the financial side of it).
+
+This is my personal account. My other work-related account is [rdiscala](https://github.com/rdiscala)
